@@ -1,0 +1,9 @@
+1)Descargar el demo
+3)Crear una carpeta para Visual Studio Code
+4)Descomprimir el demo en la carpeta de Visial Studio Code
+5)ejecutar el comando npm serve
+6)Verificar las dependencias a instalr que aparecen en rojo y repetir paso 5
+
+NOTA: Si existe error con instalar npm install @angular/core
+ejecutar el comando npm uninstall @angular/core para desistalar el core y volve a ejecutar npm install @angular/core.
+
